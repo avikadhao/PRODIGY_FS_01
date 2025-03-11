@@ -1,4 +1,4 @@
-echo "# User Authentication Project
+
 
 This project demonstrates user authentication using Passport.js, Express, and MongoDB. It includes signup and login forms with improved UI/UX using Bootstrap.
 
